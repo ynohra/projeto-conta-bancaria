@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte de um desafio de sintaxe em Java. O obj
 ## Estrutura do Projeto
 O projeto conta com a seguinte estrutura:
 
-![img_1.png](img_1.png)
+![img_1.png](src/img/img_1.png)
 
 ## Funcionalidades
 O programa permite que o usuário informe os seguintes dados:
